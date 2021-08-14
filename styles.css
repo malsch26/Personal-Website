@@ -1,0 +1,119 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Lora', serif;
+    color: #AA7070;
+}
+
+h1 {
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    color: #8B5D5D;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Lora', serif;
+    font-size: 2.5 rem;
+    color: #8B5D5D;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-family: 'Lora', serif;
+    color: #AA7070;
+}
+
+.top-container {
+    background-color:#F0E9E9;
+    position: relative;
+    padding-top: 350px;
+    padding-bottom: 350px;
+}
+.middle-container{
+    margin: 100px 0;
+}
+
+.profile {
+  width: 50%;  
+  margin: 100 px auto 100 px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.profile-image{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+    margin-left: 15px;
+}
+
+hr {
+    border: dotted #C19191 5px;
+    border-bottom: none;
+    width: 3%;
+    margin: 100px auto;
+}
+
+.p { 
+   line-height: 2;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px; 
+    line-height: 2; 
+}
+
+.btn {
+    -webkit-border-radius: 72px;
+    -moz-border-radius: 72px;
+    border-radius: 72px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: 100;
+    padding: 40px;
+    background-color: #C19191;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .btn:hover {
+    background: #8B5D5D;
+    border: solid #FFFFFF 0;
+    -webkit-border-radius: 72px;
+    -moz-border-radius: 72px;
+    border-radius: 72px;
+    text-decoration: none;
+ }
+
+ .bottom-container {
+     background-color: #C19191;
+     padding: 50px 0 20px;
+ }
+
+ .foot {
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.75rem;
+ }
+
+ .footer-link { 
+    color: #8B5D5D;
+    font-family: 'Montserrat', sans-serif;
+    margin: 5px 5px;
+    text-decoration: none;
+    padding: 20px 0;
+ }
+
+ .footer-link:hover {
+     color: #FFFFFF;
+ }
+ .giphy {
+     margin-bottom: 16px;
+ }
